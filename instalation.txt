@@ -6,4 +6,7 @@
 	2. Double-click on the .exe file
 		- and the rest of the work will be done automatically by the insatllation wizard.
 	
+
+
+	@ by me 
 	
