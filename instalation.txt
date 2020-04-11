@@ -1,0 +1,5 @@
+-----------------------------------------**** INSTALATION FILE ***----------------------------------------------------------
+
+	This file contain all the information that you need to install the our app on your computer
+	
+	
