@@ -1,5 +1,9 @@
 -----------------------------------------**** INSTALATION FILE ***----------------------------------------------------------
 
 	This file contain all the information that you need to install the our app on your computer
+
+	1. Open the app folder;
+	2. Double-click on the .exe file
+		- and the rest of the work will be done automatically by the insatllation wizard.
 	
 	
